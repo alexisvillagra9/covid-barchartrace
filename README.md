@@ -20,20 +20,24 @@ Delegates (built-in): bzlib cairo flif freetype gslib heic jng jp2 jpeg lcms lqr
 
 ##### FFMPEG
 Segundo instalaremos el ffmpeg (necesaria para crear los videos)
-Yo use la version **ffmpeg-N-99484-ga086b73e1f-win64-gpl-shared-vulkan.zip** de la siguiente [PAGINA](https://github.com/BtbN/FFmpeg-Builds/releases)
+Yo use la version **ffmpeg-N-99484-ga086b73e1f-win64-gpl-shared-vulkan.zip** de la siguiente [PAGINA](https://github.com/BtbN/FFmpeg-Builds/releases)<br />
 Una vez descargado el .zip seguimos los siguientes pasos:
 * Extraer la carpeta
 * Renombrar *"ffmpeg-N-99481-g1e97fbb3b6-win64-gpl-shared-vulkan"* por *"ffmpeg"*
 * Copiar y pegar la carpeta en la raiz del disco C:\
 * Ejecutar el siguiente comando:
 * Agregar la ruta *"C:\ffmpeg\bin"* en la variable de entorno *"PATH"*
-    1. Buscar en el incio de windows: "Editar las variables de entorno"<br />
+    1. Buscar en el incio de windows: "Editar las variables de entorno"
+
     ![](https://lh4.googleusercontent.com/yCHEhojrbTO35cAvULYWYkX67kB65sgPtFG8wyv7EYMK9Q7n0ADa8acnA8YI0lU23KsJyOM1x4NuBg=w300-h757)
-    2. Luego hacer click en *"Variables de entorno"*<br />
+    2. Luego hacer click en *"Variables de entorno"*
+
     ![](https://lh4.googleusercontent.com/oc7FQHsH2L_FO6ZadWjyw20vh9hBzyIGnR85l9_uwPxPrt0-6fyUnZmBiFOAJajN-0GiwgjwDTdZMg=w300-h757)
-    3. Editar la variable Paht<br />
+    3. Editar la variable Paht
+
     ![](https://lh3.googleusercontent.com/EdF05nhsD1f2FGsu_T5foJEl7pib6xVmCcl3dMV5MURnKiymuT9X9MgS7X_Ef-TNTPw7CbYHD_odGg=w300-h757)
-    4. Y por ultimo agregar la siguiente ruta *"C:\ffmpeg\bin"* y guardamos los cambios<br />
+    4. Y por ultimo agregar la siguiente ruta *"C:\ffmpeg\bin"* y guardamos los cambios
+    
     ![](https://lh4.googleusercontent.com/hEbvkHETiGxCeZJrXf6i8rO3pSxDRa6PADJGK8qPFxETZc6nFEKb-rGi4ytlf8YGcFdCGPP37x227A=w300-h757)
 
 Una vez instalado comprobaremos que se hayan creado las variables de entorno con el siguiente comando en nuestra terminal de windows:
