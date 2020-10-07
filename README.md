@@ -3,7 +3,7 @@ Como vamos a usar la libreria **"Bar Chart Race"** se debe tener previamente ins
 
 ##### IMAGEMAGICK
 Primero instalaremos el ImageMagick (necesaria para crear los gif animado)
-Yo use la version **ImageMagick-7.0.10-33-Q16-HDRI-x64-dll.exe** de la  [PAGINA OFICIAL](https://imagemagick.org/script/download.php#windows)
+Yo use la version **ImageMagick-7.0.10-33-Q16-HDRI-x64-dll.exe** de la  [PAGINA OFICIAL](https://imagemagick.org/script/download.php#windows).<br />
 Una vez instalado comprobaremos que se hayan creado las variables de entorno con el siguiente comando en nuestra terminal de windows:
 ```sh
 magick -version
@@ -27,13 +27,13 @@ Una vez descargado el .zip seguimos los siguientes pasos:
 * Copiar y pegar la carpeta en la raiz del disco C:\
 * Ejecutar el siguiente comando:
 * Agregar la ruta *"C:\ffmpeg\bin"* en la variable de entorno *"PATH"*
-    1. Buscar en el incio de windows: "Editar las variables de entorno"
+    1. Buscar en el incio de windows: "Editar las variables de entorno"<br />
     ![](https://lh4.googleusercontent.com/yCHEhojrbTO35cAvULYWYkX67kB65sgPtFG8wyv7EYMK9Q7n0ADa8acnA8YI0lU23KsJyOM1x4NuBg=w300-h757)
-    2. Luego hacer click en *"Variables de entorno"*
+    2. Luego hacer click en *"Variables de entorno"*<br />
     ![](https://lh4.googleusercontent.com/oc7FQHsH2L_FO6ZadWjyw20vh9hBzyIGnR85l9_uwPxPrt0-6fyUnZmBiFOAJajN-0GiwgjwDTdZMg=w300-h757)
-    3. Editar la variable Paht
+    3. Editar la variable Paht<br />
     ![](https://lh3.googleusercontent.com/EdF05nhsD1f2FGsu_T5foJEl7pib6xVmCcl3dMV5MURnKiymuT9X9MgS7X_Ef-TNTPw7CbYHD_odGg=w300-h757)
-    4. Y por ultimo agregar la siguiente ruta *"C:\ffmpeg\bin"* y guardamos los cambios
+    4. Y por ultimo agregar la siguiente ruta *"C:\ffmpeg\bin"* y guardamos los cambios<br />
     ![](https://lh4.googleusercontent.com/hEbvkHETiGxCeZJrXf6i8rO3pSxDRa6PADJGK8qPFxETZc6nFEKb-rGi4ytlf8YGcFdCGPP37x227A=w300-h757)
 
 Una vez instalado comprobaremos que se hayan creado las variables de entorno con el siguiente comando en nuestra terminal de windows:
